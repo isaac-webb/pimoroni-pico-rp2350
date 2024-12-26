@@ -15,3 +15,5 @@ batteries-included flavour of MicroPython for RP2350 / Pico2 boards.
 | PGA2350 | ~ | [https://github.com/pimoroni/pga/](https://github.com/pimoroni/pga/) | See the PGA repo for builds and boilerplate
 
 For a list of all releases see [https://github.com/pimoroni/pimoroni-pico-rp2350/releases](https://github.com/pimoroni/pimoroni-pico-rp2350/releases).
+
+Trigger CI
