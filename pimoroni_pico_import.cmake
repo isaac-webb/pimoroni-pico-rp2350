@@ -20,7 +20,7 @@ if (NOT PIMORONI_PICO_PATH)
         endif ()
         FetchContent_Declare(
                 pimoroni_pico
-                GIT_REPOSITORY https://github.com/pimoroni/pimoroni-pico
+                GIT_REPOSITORY https://github.com/isaac-webb/pimoroni-pico
                 GIT_TAG main
         )
         if (NOT pimoroni_pico)

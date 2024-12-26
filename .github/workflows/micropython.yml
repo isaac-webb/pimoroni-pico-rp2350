@@ -61,7 +61,7 @@ jobs:
 
     - uses: actions/checkout@v4
       with:
-        repository: pimoroni/pimoroni-pico
+        repository: isaac-webb/pimoroni-pico
         ref: ${{env.PIMORONI_PICO_VERSION}}
         submodules: true
         path: pimoroni-pico
